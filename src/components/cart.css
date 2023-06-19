@@ -1,0 +1,44 @@
+/* cart.css */
+.cart-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .cart-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .price {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #ccc;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .total-amount {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
