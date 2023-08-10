@@ -1,3 +1,10 @@
+# Ecommerce-Shopping-app
+This project is a basic shopping Application designed using react.
+
+# Netlify Link
+This link provide you to access the Output of the above project code in real Time Environment.
+Link :- https://teal-medovik-f5757a.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
